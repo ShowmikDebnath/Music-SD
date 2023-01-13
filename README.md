@@ -1,6 +1,6 @@
 # musicsd
 
-A new Flutter project.
+A Audio Player mobile application using flutter. 
 
 ## Getting Started
 
